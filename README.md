@@ -30,8 +30,6 @@
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://gabrieltavaresmelo.github.io/portifolio)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 
 ### 🧩 Frameworks/Libraries
 
@@ -50,6 +48,8 @@
 
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![postgresql](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://itsrakesh.co)
 
 ### ⚒️ Tools
 
@@ -57,14 +57,11 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://gabrieltavaresmelo.github.io/portifolio)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![sourcetree](https://img.shields.io/badge/SourceTree-179287?style=for-the-badge&logo=sourcetree&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 
 ### 🧠 IDEs/Text Editors I use
 
