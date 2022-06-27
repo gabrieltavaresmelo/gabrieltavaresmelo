@@ -1,5 +1,3 @@
-[![gabrieltavaresmelo.github.io/portifolio](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://gabrieltavaresmelo.github.io/portifolio)
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Gabriel Tavares</h1>
 <h3 align="center">👨🏻‍🏫 Professor 🧑🏻‍💻 IA Researcher 🌐 web and mobile developer</h3>
 
@@ -71,7 +69,6 @@
 [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 
 ### 💻 Workspace
 
@@ -83,7 +80,3 @@
 
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio) -->
-
----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
