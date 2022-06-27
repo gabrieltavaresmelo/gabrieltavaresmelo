@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Gabriel Tavares</h1>
 <h3 align="center">👨🏻‍🏫 Professor 🧑🏻‍💻 IA Researcher 🌐 web and mobile developer</h3>
 
-- 🔭 I’m currently working on **IFCE**
+- 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 
 - 🌱 I’m currently learning **Deep Learning**
 
@@ -69,31 +69,21 @@
 [![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
-[![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://gabrieltavaresmelo.github.io/portifolio)
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 
 ### 💻 Workspace
 
+[![unix](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+
+<!-- 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+-->
+
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
 [![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio) -->
 
 ---
 
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
----
-
-<details>
-  <summary>🧑‍🔬 This week I did</summary>
-  
-  [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
-</details>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
-<!---
-RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
