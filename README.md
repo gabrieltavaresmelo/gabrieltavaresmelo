@@ -1,33 +1,102 @@
-<h1 align="center">Hi 👋, I'm Gabriel Tavares</h1>
-<h3 align="center">👨🏻‍🏫 Professor 🧑🏻‍💻 IA researcher 🌐 web/mobile developer</h3>
+[![gabrieltavaresmelo.github.io/portifolio](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://gabrieltavaresmelo.github.io/portifolio)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieltavaresmelo&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieltavaresmelo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieltavaresmelo" alt="gabrieltavaresmelo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gabrieltmf" target="blank"><img src="https://img.shields.io/twitter/follow/gabrieltmf?logo=twitter&style=for-the-badge" alt="gabrieltmf" /></a> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Gabriel Tavares</h1>
+<h3 align="center">👨🏻‍🏫 Professor 🧑🏻‍💻 IA Researcher 🌐 web and mobile developer</h3>
 
 - 🔭 I’m currently working on **IFCE**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://gabrieltavaresmelo.github.io/portifolio](https://gabrieltavaresmelo.github.io/portifolio)
+- 👨‍💻 All of my projects are available [here](https://gabrieltavaresmelo.github.io/portifolio)
 
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **gabriel.tavares@ifce.edu.br**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gabrieltmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrieltmf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel-tavares-melo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-tavares-melo" height="30" width="40" /></a>
-<a href="https://fb.com/gabriel.tavares.927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel.tavares.927" height="30" width="40" /></a>
-<a href="https://instagram.com/gabrieltavaresmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrieltavaresmelo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uciap01bau4rplh0fcahu1hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uciap01bau4rplh0fcahu1hg" height="30" width="40" /></a>
-</p>
+### 🤝 Connect with me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltavaresmelo&show_icons=true&locale=en&layout=compact" alt="gabrieltavaresmelo" /></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![Youtube](https://img.shields.io/badge/YouTube-F80000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIap01bau4RPLh0fcaHu1Hg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tavares-melo)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieltavaresmelo&show_icons=true&locale=en" alt="gabrieltavaresmelo" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltavaresmelo&" alt="gabrieltavaresmelo" /></p>
+### 🧑‍💻 Languages
+
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://gabrieltavaresmelo.github.io/portifolio)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://gabrieltavaresmelo.github.io/portifolio)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://gabrieltavaresmelo.github.io/portifolio)
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+
+### 🧩 Frameworks/Libraries
+
+[![ionic](https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-20232A?style=for-the-badge&logo=spring&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+[![Play Framework](https://img.shields.io/badge/Play%20Framework-20232A?style=for-the-badge&logo=scala&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+[![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+[![YOLO](https://img.shields.io/badge/YOLO-20232A?style=for-the-badge&logo=yolo&logoColor=61DAFB)](https://gabrieltavaresmelo.github.io/portifolio)
+
+### 🗃️ Databases
+
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+
+### ⚒️ Tools
+
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://gabrieltavaresmelo.github.io/portifolio)
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+
+### 🧠 IDEs/Text Editors I use
+
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://gabrieltavaresmelo.github.io/portifolio)
+[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+
+### 💻 Workspace
+
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+<!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio)
+[![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://gabrieltavaresmelo.github.io/portifolio) -->
+
+---
+
+### 🔝 Most used languages
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+
+---
+
+<details>
+  <summary>🧑‍🔬 This week I did</summary>
+  
+  [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
+</details>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
+<!---
+RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
