@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning** and **Computer Vision**
 
 - 👨‍💻 All of my projects are available [here](https://gabrieltavaresmelo.github.io/portifolio)
 
