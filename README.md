@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Gabriel Tavares</h1>
-<h3 align="center">👨🏻‍🏫 Professor 🧑🏻‍💻 IA Researcher 🌐 web and mobile developer</h3>
+<h3 align="center">👨🏻‍🏫 Professor 🧑🏻‍💻 AI Researcher 🌐 web and mobile developer</h3>
 
 - 🔭 I’m currently working on [IFCE](https://ifce.edu.br)
 
